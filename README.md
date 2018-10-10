@@ -1,4 +1,4 @@
 # Solace
 2D Unity platformer game
 
-This was made with help from Jada and the sprites were drawn on Adobe Illustrator by Arikeru 
+This was made on Unity and the sprites were designed on Adobe Illustrator by me and Arikeru.
